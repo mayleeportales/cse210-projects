@@ -1,0 +1,4 @@
+0
+SimpleGoal:Eat more fruits|Buy bananas, apples and tangerines every Friday|500|False
+EternalGoal:Study the scriptures|Study the scriptures for 10min everyday|600
+ChecklistGoal:Go to the temple|Go to the temple 4 times per month|1000|0|3|500
